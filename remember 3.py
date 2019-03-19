@@ -1037,7 +1037,9 @@
 ##except harish as a:
 ##    print(a.var)
 
-
+var="dhoni"
+var1="kholi"
+print(var,var1)
 
 
 
